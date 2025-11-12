@@ -1,5 +1,17 @@
 # Google Careers Job Search Automation
 
+
+
+
+
+
+<img width="1752" height="746" alt="Screenshot 2025-11-12 135538" src="https://github.com/user-attachments/assets/d37790b9-e784-46e3-9d8f-2f4f6067d0a3" />
+
+
+
+
+
+
 A **Streamlit web app** that automates job searches on **Google Careers** using a natural-language query.
 
 It can:
